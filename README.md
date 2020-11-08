@@ -11,7 +11,7 @@ MATKUL : BAHASA PEMROGRAMAN
 
 ## PRAKTIKUM 1 - LATIHAN 1
 
-![Latihan 1](foto/ppt1-lat1)
+![Latihan 1](foto/ppt1-lat1.PNG)
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
 ```python
@@ -38,7 +38,7 @@ baris = 10
 kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar yang ada dibawah ini
-![Foto Lat1](foto/hasillat1)
+![Foto Lat1](foto/hasillat1.PNG)
 ## PRAKTIKUM 1 - LATIHAN 2
 
 ![Latihan 2](https://user-images.githubusercontent.com/72906579/98334141-d17dc180-2034-11eb-8f93-2c8117283027.png) <br>
