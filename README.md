@@ -11,7 +11,7 @@ MATKUL : BAHASA PEMROGRAMAN
 
 ## PRAKTIKUM 1 - LATIHAN 1
 
-![Latihan 1](foto/ppt1-lat1.PNG)
+![Latihan 1](foto/ppt1-lat1.png)
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan menghasilkan output seperti gambat diatas.
 Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
 ```python
